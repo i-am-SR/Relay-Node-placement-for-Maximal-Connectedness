@@ -87,7 +87,7 @@ Step 6: Return this k-MST as the solution for the BCRP-MLCC problem and terminat
 Step 7: Return any random sensor point as solution.
 
 
-INPUT FORMAT
+**INPUT FORMAT**
 
 Code expects file path as input.
 Details on file content and input pattern is as below:
@@ -156,7 +156,7 @@ python Algorithm5.py
 enter the path for the input file provided
 
 
-OUTPUT
+**OUTPUT**
 
 BCRP-MNCC
 
