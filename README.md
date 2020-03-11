@@ -16,8 +16,12 @@ lem and implement the algorithm.
 Analyze the Budget Constrained Relay node Placement for Maximizing the Largest Con-
 nected Component(BCRP-MLCC) problem and implement the algorithm.
 
-PROBLEM FORMULATION
+**PROBLEM FORMULATION**
+
+
 Budget Constrained Relay Node Placement with Minimum Number of Connected Components (BCRP-MNCC)
+
+
 Given the locations of n sensor nodes in the Euclidean plane,
 P = {p1, p2, . . . , pn}, positive integers C, R as communication range of sensor nodes and relay nodes, and a budget B1 on the number of available relay nodes. Objective is to find a subset of Q = {q1, q2, . . . , q|B1|} points, in the same plane where relay nodes can be deployed, so that the number of connected components in the graph G0 = (V 0 , E0 ) corresponding to the point set P and Q is at most C.
 
