@@ -7,8 +7,8 @@ place the fewest number of relay nodes in the deployment area such that the
 resulting network comprising of sensor and relay nodes is connected.
 Research paper used for reference:
 
-A. Mazumder, C. Zhou, A. Das and A. Sen, "Budget Constrained Relay
-Node Placement Problem for Maximal \Connectedness"", MILCOM 2016.
+*A. Mazumder, C. Zhou, A. Das and A. Sen, "Budget Constrained Relay
+Node Placement Problem for Maximal \Connectedness"", MILCOM 2016.*
 
 Analyze the Budget Constrained Relay node Place-
 ment with Minimum Number of Connected Components(BCRP-MNCC) prob-
